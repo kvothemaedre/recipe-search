@@ -1,0 +1,10 @@
+
+.jumbotron{
+	margin:2%;
+	padding:2px;
+	border:2px solid grey;
+}
+
+.jumbotron h1{
+	font-size: 1em;
+}
